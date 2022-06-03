@@ -1,0 +1,4 @@
+project: PROJECT
+target: exprtk_fuzzer
+cmds:
+- cmd: /out/exprtk_fuzzer
